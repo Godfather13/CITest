@@ -37,3 +37,6 @@ fastlane/report.xml
 fastlane/File
 IosContinuousIntegration.app.dSYM.zip
 test_output/
+
+# OS X
+.DS_Store
